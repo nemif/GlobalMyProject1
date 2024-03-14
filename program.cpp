@@ -12,3 +12,4 @@ cout << MyPow(10, 3) << endl;
 system("pause");
 return 0;
 }
+
